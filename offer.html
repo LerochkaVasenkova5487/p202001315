@@ -1257,7 +1257,9 @@
         var country_code_server = 'KZ';
 
         $(document).ready(function () {
-            console.log(url('?ad_id'));
+            params = (new URL(document.location)).searchParams;
+            ad_id = params.get('ad_id') ? params.get('ad_id') : '';
+            console.log(ad_id);
             // $('form').prepend('<input type="hidden" value="160" name="product_id">');
 
             $("input[name='phone']").val(phone_numbers[country_code_server]);
@@ -1272,7 +1274,7 @@
                     api_key: '6c84f367a7b948a28d000113265bf983',
                     geo_id: 2,
                     offer_id: 160,
-                    data1: url('?ad_id') ? url('?ad_id') : '',
+                    data1: ad_id,
                     phone: $(this).find('input[name="phone"]').val(),
                     name: $(this).find('input[name="name"]').val(),
                 };
