@@ -1,0 +1,33 @@
+HTTrack3.49-2 launched on Fri, 31 Jan 2020 15:52:18 at https://store-brands.ru/duxi-originaly/
+(httrack https://store-brands.ru/duxi-originaly/ -F "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0" -C0 -N1004 -n -I0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:55:20	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/images/sprite.png (from store-brands.ru/duxi-originaly/css/jcf.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/glyphicons-halflings-regular.eot (from store-brands.ru/duxi-originaly/css/bootstrap.min.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/glyphicons-halflings-regular.eot? (from store-brands.ru/duxi-originaly/css/bootstrap.min.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/glyphicons-halflings-regular.woff2 (from store-brands.ru/duxi-originaly/css/bootstrap.min.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/glyphicons-halflings-regular.woff (from store-brands.ru/duxi-originaly/css/bootstrap.min.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/glyphicons-halflings-regular.ttf (from store-brands.ru/duxi-originaly/css/bootstrap.min.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/glyphicons-halflings-regular.svg (from store-brands.ru/duxi-originaly/css/bootstrap.min.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/Tahoma-Regular/Tahoma-Regular.eot (from store-brands.ru/duxi-originaly/css/fonts.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/Tahoma-Regular/Tahoma-Regular.ttf (from store-brands.ru/duxi-originaly/css/fonts.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/Tahoma-Bold/Tahoma-Bold.eot (from store-brands.ru/duxi-originaly/css/fonts.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/fonts/Tahoma-Bold/Tahoma-Bold.ttf (from store-brands.ru/duxi-originaly/css/fonts.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/bg-header.jpg (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/expert-bg.jpg (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/buket-bg.jpg (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/rectacle-mini.jpg (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/point.png (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/delivery.png (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/quat.png (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/fancybox_sprite.png (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/map_close.png (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link store-brands.ru/duxi-originaly/img/closenew.png (from store-brands.ru/duxi-originaly/css/main.css)
+15:55:24	Error: 	"Not Found" (404) at link https://store-brands.ru/duxi-originaly/Popover requires tooltip.js (from store-brands.ru/duxi-originaly/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 18 seconds : 132 links scanned, 108 files written (2762969 bytes overall) [2285448 bytes received at 11542 bytes/sec], 758169 bytes transferred using HTTP compression in 66 files, ratio 26%, 7.7 requests per connection
+(22 errors, 0 warnings, 0 messages)

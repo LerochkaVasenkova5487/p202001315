@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+store-brands.ru	TRUE	/	FALSE	1999999999	a160fhash	duxi-originaly
+store-brands.ru	TRUE	/	FALSE	1999999999	a160hash	aeef3e938480d876d0e45b97d49c9938
+.store-brands.ru	TRUE	/	FALSE	1999999999	__cfduid	db50b84e46f8165dc5084e6f857ee55d51580475324
+store-brands.ru	TRUE	/	FALSE	1999999999	SameSite	Lax
+
