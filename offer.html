@@ -1257,7 +1257,6 @@
         var country_code_server = 'KZ';
 
         $(document).ready(function () {
-            alert(document.referrer);
             params = (new URL(document.location)).searchParams;
             ad_id = params.get('ad_id') ? params.get('ad_id') : '';
             console.log(ad_id);
@@ -1284,7 +1283,7 @@
                     url: 'https://rekl.pro/api_simple_order/',
                     data: data,
                     success: function (r) {
-                        location.href = 'thanks.html';
+                        location.href = 'thanks.html?pixel=' + params.get('pixel');
                     }
                 });
             });
